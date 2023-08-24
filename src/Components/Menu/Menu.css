@@ -1,0 +1,12 @@
+.menuLink{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding-bottom: 5px;
+}
+
+.menuLink:hover{
+    color: #CB9D3B;
+    border-bottom: solid 1px #CB9D3B;
+
+}
